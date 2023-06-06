@@ -18,11 +18,13 @@ A passionate frontend and backend developer from Chile
 [![JavaScript](https://cdn.icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://cdn.icon-icons.com/icons2/195/PNG/32/Java_23404.png)](https://www.java.com/)
 [![Python](https://cdn.icon-icons.com/icons2/1508/PNG/32/python_104451.png)](https://www.python.org/)
+[![Django](https://cdn.icon-icons.com/icons2/2415/PNG/32/django_original_logo_icon_146559.png)](https://www.djangoproject.com/)
 [![Php](https://cdn.icon-icons.com/icons2/2108/PNG/32/php_icon_130857.png)](https://www.php.net/)
 [![Html](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png)](https://www.w3.org/html/)
 [![Git](https://cdn.icon-icons.com/icons2/2415/PNG/32/git_plain_logo_icon_146507.png)](https://git-scm.com/)
 [![Sass](https://cdn.icon-icons.com/icons2/2415/PNG/32/sass_original_logo_icon_146350.png)](https://sass-lang.com/)
 [![Bootstrap](https://cdn.icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png)](https://getbootstrap.com/)
+[![Storybook](https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_storybook_icon_130145.png)](https://storybook.js.org/)
 [![PhotoShop](https://cdn.icon-icons.com/icons2/3053/PNG/32/adobe_photoshop_macos_bigsur_icon_190436.png)](https://www.photoshop.com/en)
 [![Figma](https://cdn.icon-icons.com/icons2/2699/PNG/32/figma_logo_icon_170157.png)](https://www.figma.com/)
 
