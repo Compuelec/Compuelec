@@ -28,7 +28,20 @@ A passionate frontend and backend developer from Chile
 [![PhotoShop](https://cdn.icon-icons.com/icons2/3053/PNG/32/adobe_photoshop_macos_bigsur_icon_190436.png)](https://www.photoshop.com/en)
 [![Figma](https://cdn.icon-icons.com/icons2/2699/PNG/32/figma_logo_icon_170157.png)](https://www.figma.com/)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=compuelec&show_icons=true&locale=en&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=compuelec&show_icons=true&locale=en)
-![](https://github-readme-streak-stats.herokuapp.com/?user=compuelec&)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=compuelec&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compuelec&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&langs_count=10&hide_title=true" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=compuelec&theme=transparent&hide_border=true&mode=weekly&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000" />
+    </td>
+  </tr>
+</table>
